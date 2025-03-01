@@ -6,7 +6,7 @@ import streamlit as st
 
 st.set_page_config(
     page_title="BigData Team: streamlit demo",
-    page_icon="🦁",
+    page_icon="👀",
     layout="wide",
 )
 
@@ -28,7 +28,7 @@ Github курса:\n
 [github.com/big-data-team/ml-course](https://github.com/big-data-team/ml-course)
 """)
 
-st.title("🦁 BigData Team: Streamlit Demo")
+st.title("👀 BigData Team: Streamlit Demo")
 st.header("01. Введение в библиотеки ML", divider=True)
 st.subheader("Titanic dataset, train sample", divider=True)
 
